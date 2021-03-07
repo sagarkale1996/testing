@@ -7,3 +7,5 @@ def post():
     pass
 def delet():
     pass
+def sagar():
+    pass
