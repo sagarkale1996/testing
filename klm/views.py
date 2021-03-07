@@ -5,3 +5,5 @@ def get():
     pass
 def post():
     pass
+def delet():
+    pass
